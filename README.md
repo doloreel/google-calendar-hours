@@ -1,3 +1,7 @@
+Making a calendar count hours app
+
+--------
+
 ## Visit: [google-calendar-hours.com](http://google-calendar-hours.com/)
 (or [aronwoost.github.io/google-calendar-hours](http://aronwoost.github.com/google-calendar-hours/))
 
